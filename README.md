@@ -23,14 +23,14 @@ Let's understand the folder structure of our project
   - `App.css`: Styles for the application.
 
 # Functionalities
-- Increment
- - Clicking the "Increment" button increases the count of a specific counter by 1.
+- **Increment**
+   - Clicking the "Increment" button increases the count of a specific counter by 1.
 
-- Decrement
+- **Decrement**
   - Clicking the "Decrement" button decreases the count of a specific counter by 1.
 
-- Delete
+- **Delete**
   - Clicking the "Delete" button removes a specific counter.
 
-- Reset
- - Clicking the "Reset" button resets the count of a specific counter to 0.
+- **Reset**
+    - Clicking the "Reset" button resets the count of a specific counter to 0.
